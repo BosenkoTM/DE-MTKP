@@ -1,6 +1,6 @@
 # How to Monitor MySQL
 
-MySQL is the most widely used open-source relational database. But hey, you probably knew that already. 
+MySQL is the most widely used open-source relational database.
 
 Articles get written about MySQL on a daily basis, offering tips on how to set up, maintain and, yes, even monitor MySQL. So our post is not about reinventing the wheel. We just want to share our very own checklist of best practices.
 
