@@ -152,5 +152,3 @@ If you want to further your understanding of MySQL server performance, then give
 ## Summary
 
 Before closing, if you’re in the mood for more reading, then we’ve found some great posts about MySQL performance and operations at [Percona Data Performance Blog](https://www.percona.com/blog/). [High Performance MySQL book](http://www.highperfmysql.com/) is a great read too.
-
-So what about you? Do you have a checklist or any best practices for monitoring MySQL? What databases do you have in place and how do you monitor them? Any interesting reads to suggest?
