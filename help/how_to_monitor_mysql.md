@@ -4,7 +4,7 @@ MySQL is the most widely used open-source relational database.
 
 Articles get written about MySQL on a daily basis, offering tips on how to set up, maintain and, yes, even monitor MySQL. So our post is not about reinventing the wheel. We just want to share our very own checklist of best practices.
 
-A couple of notes before we start. We assume you’re using the InnoDB database engine. The old, non-transactional MyISAM engine is now deprecated. Oh, and we will not cover any TokuDB specifics here.
+A couple of notes before we start. We assume you’re using the InnoDB database engine. The old, non-transactional MyISAM engine is now deprecated.
 
 So, without further ado, let’s have a look at the most important metrics and alerts for monitoring your MySQL server.
 
