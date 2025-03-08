@@ -89,9 +89,9 @@
 ---
 
 ### Примечания:
-- Код должен соответствовать [стандартам оформления](https://github.com/BosenkoTM/DE-MTKP/blob/main/de/2025/tipovoe_zadanie/standards.md).
+- Код должен соответствовать [Требования к разработке.pdf](https://github.com/BosenkoTM/DE-MTKP/blob/main/de/2025/tipovoe_zadanie/data/%D0%A2%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BA%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.pdf).
 - Руководство пользователя должно включать скриншоты всех этапов работы.
-- Тестирование проводить с использованием данных из [Отчет по оплате.xlsx](https://github.com/BosenkoTM/DE-MTKP/blob/main/de/2025/tipovoe_zadanie/data/payments.xlsx).
+- Тестирование проводить с использованием данных из [Отчет по оплате.xlsx](https://github.com/BosenkoTM/DE-MTKP/raw/refs/heads/main/de/2025/tipovoe_zadanie/data/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BF%D0%BE%20%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D0%B5.xlsx).
 
 Прикрепить электронный отчет №4, в котором отобразить:
 - работоспособный интерфейс приложения.
