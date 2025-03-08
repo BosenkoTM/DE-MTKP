@@ -5,8 +5,7 @@
 Для выполнения задания на платформе «Альт Образование» 10 используется следующее программное обеспечение:
 
 1. **Операционная система:**  
-   - Альт Образование 10 (версия 10.4) [[7]].  
-     Скачать образ можно по ссылке: [alt-education-10.4-x86_64.iso](https://download.basealt.ru/pub/distributions/ALTLinux/p10/images/education/x86_64/alt-education-10.4-x86_64.iso).
+   - Альт Образование 10 (версия 10.4) [alt-education-10.4-x86_64.iso](https://download.basealt.ru/pub/distributions/ALTLinux/p10/images/education/x86_64/alt-education-10.4-x86_64.iso).
 
 2. **СУБД:**  
    - MySQL Server 8.0 или выше.  
