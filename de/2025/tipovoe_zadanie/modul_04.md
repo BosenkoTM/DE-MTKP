@@ -10,7 +10,7 @@
 
 ### ПО
 
-* [Проверка connect to DB.](/Help/CrudTest)
+* [Проверка connect to DB.](https://github.com/BosenkoTM/DE-MTKP-2023/tree/main/Help/CrudTest)
 
 * [Подготовленный образ ALT Linux 10 Образование v 0.1 от17.05.22](https://disk.yandex.ru/d/UAM1dnC0P1kpKw)
 
