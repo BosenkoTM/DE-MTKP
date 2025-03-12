@@ -207,14 +207,9 @@ WHERE b.CheckInDate >= startDate AND b.CheckOutDate <= endDate;
 ```sql
 SET adr = totalRevenue / totalNights;
 ```
-- **Формула:**  
-$$
-ADR = Общая выручка / Количество проданных ночей
-$$
-
-$$
-ADR = \frac{\text{Общая выручка}}{\text{Количество проданных ночей}}
-$$
+- **Формула:**
+- 
+**ADR = Общая выручка / Количество проданных ночей**
 ---
 
 3. Важные нюансы
